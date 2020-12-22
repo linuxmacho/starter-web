@@ -17,3 +17,7 @@ This is the copyright training
 ## Copyrigh2
 
 This is second copyright added for the test
+
+## How to Contribute
+
+Please fork this repository and then issue pull request for the review.
