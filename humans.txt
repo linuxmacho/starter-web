@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jitendra Surana  jitendra.surana@chomu.com  @loneranger
 
 # THANKS
 
